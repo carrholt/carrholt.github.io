@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my latest CV can be found [here](files/Holt_CV.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, University of Maryland, 2023
+* M.S. in Astronomy, University of Maryland, 2018
+* B.S. in Physics, Wagner College, 2014
 
 Work experience
 ======
