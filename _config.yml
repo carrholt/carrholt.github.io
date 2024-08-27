@@ -21,7 +21,7 @@ repository               : "carrholt/carrholt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "carrie_headshot.jpg"
   name             : "Carrie E. Holt"
   pronouns         : "she/her"  
   bio              : "LSST-DA Catalyst Postdoctoral Fellow"
