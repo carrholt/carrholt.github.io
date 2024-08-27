@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 This site is currently under construction. Check back later!
+
+In the meantime, a PDF version of my latest CV can be found [here](/files/Holt_CV.pdf).
